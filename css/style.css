@@ -36,6 +36,12 @@
     font-weight: bold;
  }
 
+ .acerca_de_mi {
+    text-align: center;
+    font-weight: bolder;
+ }
+ 
+
  h2 {
  }
 
@@ -71,7 +77,6 @@
     font-weight: bolder;
     opacity: 1;
  }
-
 
 
 
@@ -246,6 +251,11 @@ section {
     font-size: 1.7em;
 }
 
+.dede{
+
+    background-color: #7FA4CD;
+
+}
 
 #educacion {
     background: #151515 url(/images/hd-wallpaper-856151_1280.jpg) no-repeat center center;
