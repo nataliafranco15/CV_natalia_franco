@@ -128,7 +128,7 @@
     font-size: 84px;
 }
 
-.intro h5 {
+.intro h2 {
     color: #1abc9c;
     font-size: 2.3rem;
     margin-bottom: 0;
@@ -253,7 +253,8 @@ section {
 
 .dede{
 
-    background-color: #7FA4CD;
+    font-size: 21px;
+    text-align: center;
 
 }
 
