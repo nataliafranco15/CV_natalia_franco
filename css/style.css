@@ -25,6 +25,14 @@
 /* 01. Basic Styles
  * =================================================================== */
 
+.idiomas_CV{
+   text-align: right;
+   
+    color : white;
+ 
+   
+}
+
  html {
     overflow-x: hidden;
  }
