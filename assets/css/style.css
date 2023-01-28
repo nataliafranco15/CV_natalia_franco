@@ -42,8 +42,9 @@ h6,
 .introduccion_seccion{
   contain: content;
   margin: auto;
-  text-align: center;
+  text-align: justify;
   font-size: 25px;
+
 
 }
 
