@@ -24,6 +24,8 @@ a {
   transition: 0.3s all ease;
 }
 
+
+
 a:hover {
   color: #000;
 }
@@ -44,7 +46,8 @@ h6,
   margin: auto;
   text-align: justify;
   font-size: 25px;
-
+  margin-right: 25px;
+  margin-left: 25px;
 
 }
 
